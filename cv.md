@@ -15,7 +15,7 @@
   can become my profession. To do this, I study html, css and javascript and believe that rsschool will help me gain
   and organize the necessary knowledge and skills to get my first job as a web developer.
   
- ### Skills:
+### Skills:
  - html/css
  - javascript
  - react

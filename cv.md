@@ -27,3 +27,17 @@
  some examples of my code you can find:
  - [here](https://github.com/EugeneSheuchuk?tab=repositories) (GitHub)
  - [and here](https://codepen.io/dashboard?type=view&opts_itemType=pen&opts_filter=all&opts_orderBy=id&opts_orderDirection=0&opts_tag=0&displayType=grid&previewType=iframe&page=0) (Codepen.io)
+ 
+### Experience and educatin
+I have finished some online courses:
+- [Codecademy](https://www.codecademy.com/profiles/eugeneSheuchuk9000488429)
+- [HTMLacademy](https://htmlacademy.ru/profile/id372513)
+
+Now, I am in process of study on several courses:
+- rsschool
+- [Hexlet](https://ru.hexlet.io/u/user-5d06dc716112d140)
+- [It-incubator](https://it-incubator.by)
+
+as part of these courses, I performed various tasks, solved problems on the topics I studied, and also completed a couple of small projects.
+
+My english level A2, but in future i plan to spend **a lot of time** to increase my knowledge in english.

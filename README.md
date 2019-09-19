@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool homework
+https://github.com/EugeneSheuchuk/rsschool-cv/cv

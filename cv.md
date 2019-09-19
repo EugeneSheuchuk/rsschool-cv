@@ -14,3 +14,16 @@
   However, over time, I became interested in developing more and more. At some point, I realized that web development
   can become my profession. To do this, I study html, css and javascript and believe that rsschool will help me gain
   and organize the necessary knowledge and skills to get my first job as a web developer.
+  
+ ###Skills:
+ - html/css
+ - javascript
+ - react
+ - redux
+ - webpack
+ - node.js
+ - express.js
+ 
+ some examples of my code you can find:
+ - [here](https://github.com/EugeneSheuchuk?tab=repositories) (GitHub)
+ - [and here](https://codepen.io/dashboard?type=view&opts_itemType=pen&opts_filter=all&opts_orderBy=id&opts_orderDirection=0&opts_tag=0&displayType=grid&previewType=iframe&page=0) (Codepen.io)

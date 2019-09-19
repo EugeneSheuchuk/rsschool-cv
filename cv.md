@@ -7,3 +7,10 @@
 - [GitHub](https://github.com/EugeneSheuchuk)
 - [Telegram](https://t.me/EugeneSheuchuk)
 - Locatin: Minsk, Belarus
+
+###Summary
+  I have been interested in computers since school, and in the last 3 years I have become interested in web development.
+  At first, my interest in web development was like a hobby - I wanted to learn something new.
+  However, over time, I became interested in developing more and more. At some point, I realized that web development
+  can become my profession. To do this, I study html, css and javascript and believe that rsschool will help me gain
+  and organize the necessary knowledge and skills to get my first job as a web developer.

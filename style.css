@@ -2,6 +2,93 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-size: 16px;
-    line-height: 1;
+    font-size: 18px;
+    line-height: 1.25;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 40px auto;
+}
+
+h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 32px;
+    text-align: center;
+}
+
+header h2 {
+    font-size: 28px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.contactInformation {
+    margin-bottom: 20px;
+}
+
+.contactInformation img {
+    float: left;
+}
+
+.contactInformation:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.information {
+    margin-left: 300px;
+}
+
+.information ul {
+    list-style: none;
+}
+
+.information li {
+    margin-bottom: 10px;
+}
+
+.information a {
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+.summary p {
+    margin-bottom: 20px;
+}
+
+.skills > ul {
+    list-style: circle;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.skills > ul:last-child {
+    list-style: square;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.skills p {
+    margin-bottom: 10px;
+}
+
+.skills a {
+    text-decoration: none;
+    color: cornflowerblue;
+}
+.education ul, .education p {
+    margin-bottom: 10px;
+}
+.education ul {
+    list-style: none;
+}
+.education a {
+    text-decoration: none;
+    color: cornflowerblue;
 }

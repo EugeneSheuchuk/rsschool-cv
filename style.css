@@ -9,11 +9,12 @@
 .container {
     max-width: 1024px;
     margin: 40px auto;
+    padding: 0 20px;
 }
 
 h3 {
-    font-size: 24px;
     margin-bottom: 20px;
+    font-size: 24px;
 }
 
 header h1 {
@@ -22,9 +23,9 @@ header h1 {
 }
 
 header h2 {
+    margin: 20px 0;
     font-size: 28px;
     text-align: center;
-    margin: 20px 0;
 }
 
 .contactInformation {
@@ -63,15 +64,15 @@ header h2 {
 }
 
 .skills > ul {
-    list-style: circle;
     margin-left: 20px;
     margin-bottom: 10px;
+    list-style: circle;
 }
 
 .skills > ul:last-child {
-    list-style: square;
     margin-left: 20px;
     margin-bottom: 20px;
+    list-style: square;
 }
 
 .skills p {
@@ -82,12 +83,16 @@ header h2 {
     text-decoration: none;
     color: cornflowerblue;
 }
-.education ul, .education p {
+
+.education ul,
+.education p {
     margin-bottom: 10px;
 }
+
 .education ul {
     list-style: none;
 }
+
 .education a {
     text-decoration: none;
     color: cornflowerblue;

@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Mansalva";
+    src: url("./assets/fonts/Mansalva-Regular.ttf") format('truetype');
+}
+
 * {
     padding: 0;
     margin: 0;
@@ -14,7 +19,8 @@
 
 h3 {
     margin-bottom: 20px;
-    font-size: 24px;
+    font-family: "Mansalva", "Times New Roman", serif;
+    font-size: 26px;
 }
 
 header h1 {

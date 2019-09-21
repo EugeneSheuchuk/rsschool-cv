@@ -64,6 +64,25 @@ header h2 {
     text-decoration: none;
     color: cornflowerblue;
 }
+.information .icons a {
+    width: 45px;
+    height: 45px;
+    display: inline-block;
+    background-image: url("./assets/images/social icon.jpg");
+    overflow: hidden;
+    margin-left: 10px;
+}
+.icons #lincedIn {
+    background-position: 240px 279px;
+    margin-left: 0;
+}
+.icons #gitHub {
+    background-position: 295px 168px;
+}
+
+.icons #telegram {
+    background-position: 350px 225px;
+}
 
 .summary p {
     margin-bottom: 20px;
